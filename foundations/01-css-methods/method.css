@@ -1,0 +1,14 @@
+*{
+          box-sizing: border-box;
+          padding: 0px;
+          margin: 0px;
+}
+
+div{
+          background-color: red;
+          color: #f2f2f2;
+          font-size: 32px;
+          text-align: center;
+          font-weight: bold;
+}
+

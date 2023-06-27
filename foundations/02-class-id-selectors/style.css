@@ -1,0 +1,19 @@
+.pink{
+          background-color: pink;
+}
+
+#blue{
+          color: #0000ff;
+          font-size: 2rem;
+          font-weight: bold;
+}
+
+.pink.cooler{
+          font-size: 1.4rem;
+}
+
+#green{
+          background-color: hsl(120, 95%, 70%);
+          font-weight: bolder;
+          font-size: 1.2rem;
+}
